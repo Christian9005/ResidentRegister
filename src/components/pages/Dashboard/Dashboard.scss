@@ -1,0 +1,19 @@
+.dashboard {
+    text-align: center;
+
+    h1 {
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+
+        li {
+            padding: 10px;
+            margin-bottom: 5px;
+            border-bottom: 1px solid #ccc;
+        }
+    }
+}
